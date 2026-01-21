@@ -1,3 +1,3 @@
 function changeText() {
-    document.getElementById("message").innerText = "GitHub second time committed successfully!";
+    document.getElementById("message").innerText = "GitHub committed successfully again !!!";
 }
